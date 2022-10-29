@@ -98,7 +98,7 @@ section {
   min-height: 160vh;
   display: flex;
   align-items: center;
-  background-image: url(img/IMG_20220812_120018.jpg);
+  background-image: url('../img/IMG_20220812_120018.jpg');
   background-size: cover;
   background-position: top;
   background-attachment: fixed;
